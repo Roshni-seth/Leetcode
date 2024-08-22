@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Roshni-seth/Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Roshni-seth/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Roshni-seth/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/Roshni-seth/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Roshni-seth/Leetcode/tree/master/0035-search-insert-position) |
 | [0493-reverse-pairs](https://github.com/Roshni-seth/Leetcode/tree/master/0493-reverse-pairs) |
 ## Divide and Conquer
 |  |
