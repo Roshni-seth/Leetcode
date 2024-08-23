@@ -1,9 +1,20 @@
 class Solution {
 public:
-    int search(vector<int>& v, int target) {
-        if(find(v.begin(),v.end(),target)!=v.end())
-        return (find(v.begin(),v.end(),target)-v.begin());
-    else
+    int search(vector<int>& nums, int target) {
+        int n=nums.size();
+        int low=0,high=n-1;
+        while(low<=high) {
+            int mid=(low+high)/2;
+            if(nums[mid]==target) return mid;
+            if(nums[low]<=nums[mid]) {
+                if(nums[low]<=target && target<=nums[mid]) high=mid-1;
+                else low=mid+1;;
+            }
+            else {
+                if(nums[mid+1]<=target && target<=nums[high]) low=mid+1;
+                else high=mid-1;
+            }
+        }
         return -1;
     }
 };
