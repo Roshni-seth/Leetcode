@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Roshni-seth/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [2032-largest-odd-number-in-string](https://github.com/Roshni-seth/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -95,8 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Roshni-seth/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Roshni-seth/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Roshni-seth/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Roshni-seth/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
