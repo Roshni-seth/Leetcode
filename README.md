@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Roshni-seth/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Roshni-seth/Leetcode/tree/master/0066-plus-one) |
 | [2032-largest-odd-number-in-string](https://github.com/Roshni-seth/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Roshni-seth/Leetcode/tree/master/2050-count-good-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -163,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Roshni-seth/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Roshni-seth/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Roshni-seth/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Roshni-seth/Leetcode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
