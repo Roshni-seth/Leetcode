@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Roshni-seth/Leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Roshni-seth/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Roshni-seth/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Roshni-seth/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Roshni-seth/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Roshni-seth/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Roshni-seth/Leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Roshni-seth/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Roshni-seth/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Roshni-seth/Leetcode/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Roshni-seth/Leetcode/tree/master/0812-rotate-string) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Roshni-seth/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Roshni-seth/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Roshni-seth/Leetcode/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Roshni-seth/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Roshni-seth/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
