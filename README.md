@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Roshni-seth/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Roshni-seth/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Roshni-seth/Leetcode/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/Roshni-seth/Leetcode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/Roshni-seth/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Roshni-seth/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Roshni-seth/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Roshni-seth/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Roshni-seth/Leetcode/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Roshni-seth/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Roshni-seth/Leetcode/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/Roshni-seth/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Roshni-seth/Leetcode/tree/master/2050-count-good-numbers) |
@@ -190,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Roshni-seth/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Roshni-seth/Leetcode/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Roshni-seth/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Roshni-seth/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Roshni-seth/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
