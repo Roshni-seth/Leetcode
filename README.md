@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Roshni-seth/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Roshni-seth/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Roshni-seth/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Roshni-seth/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Roshni-seth/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Roshni-seth/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Roshni-seth/Leetcode/tree/master/0078-subsets) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Roshni-seth/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Roshni-seth/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Roshni-seth/Leetcode/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Roshni-seth/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Roshni-seth/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Roshni-seth/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Roshni-seth/Leetcode/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Roshni-seth/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Roshni-seth/Leetcode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Roshni-seth/Leetcode/tree/master/0890-lemonade-change) |
